@@ -1,1 +1,3 @@
 # Whether-App-in-C
+
+Welcome to the C Weather App! This repository showcases a compact yet robust implementation of a console-based weather application in the C programming language. With simplicity at its core, the code allows users to retrieve weather information, offering a valuable resource for C enthusiasts looking to hone their skills in real-world applications. Featuring straightforward user interactions and essential weather data functionality, this project serves as an excellent starting point for those exploring C programming or interested in developing console applications. Dive into the world of C, explore the code, and leverage it for your programming endeavors. Happy coding!
